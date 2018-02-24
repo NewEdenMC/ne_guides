@@ -1,0 +1,8 @@
+name: New Eden Guides
+description: Adds custom features ad tweaks for New Eden Guides
+package: New Eden Specific
+type: module
+core: 8.x
+dependencies:
+- drupal:views
+- views_menu_children_filter:views_menu_children_filter
